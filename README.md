@@ -1,6 +1,15 @@
 # project_structure
 directory layout for the course project
 
+In the project's root directory, you will need at a minimum the following files:
+
+package.json
+
+.gitignore
+
+Gruntfile.js
+
+
 In the app directory, you will be creating your express application. Make an app.js file there that connects to your mongodb database, uses any necessary middle-ware, uses the necessary router module, and listens on the port for your application. 
 
 In the models directory, put your truckModel module that exports a mongoose model which uses a foodTruckSchema. 
