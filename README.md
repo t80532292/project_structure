@@ -9,6 +9,10 @@ package.json
 
 Gruntfile.js
 
+LICENSE
+
+README.md
+
 
 In the app directory, you will be creating your express application. Make an app.js file there that connects to your mongodb database, uses any necessary middle-ware, uses the necessary router module, and listens on the port for your application. 
 
